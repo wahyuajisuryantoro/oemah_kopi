@@ -102,7 +102,7 @@
         <!-- Drag Target Area To SlideIn Menu On Small Screens -->
         <div class="drag-target"></div>
     </div>
-    <!-- / Layout wrapper -->
+    {{-- PWA BLADE DIRECTIVE PWA --}}
     @RegisterServiceWorkerScript
     <!-- Core JS -->
     <!-- build:js assets/vendor/js/core.js -->
